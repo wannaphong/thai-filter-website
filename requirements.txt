@@ -1,0 +1,5 @@
+pythainlp
+tqdm
+datasets
+transformers
+sentence-transformers
